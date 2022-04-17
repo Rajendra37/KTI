@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba0e19e7.css",
-    "main.js": "/static/js/main.c87fe4b4.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/kti tiles.jpg": "/static/media/kti tiles.9594713dd39dcdb19ed9.jpg",
-    "static/media/kti tiles 3.jpg": "/static/media/kti tiles 3.381c65babe03f49ffbec.jpg",
-    "static/media/kti tiles 2.jpg": "/static/media/kti tiles 2.1327e2dc6ffe47e66b05.jpg",
-    "static/media/IMG_9485.PNG": "/static/media/IMG_9485.409e0358be0fefc948ff.PNG",
-    "static/media/solar-panels.png": "/static/media/solar-panels.91268eacf152aff9b34f.png",
-    "static/media/fire-alarm.png": "/static/media/fire-alarm.47e9e79727246fd0786a.png",
-    "static/media/IMG_9448.PNG": "/static/media/IMG_9448.b518fd48e8cb1f333ca5.PNG",
-    "static/media/cctv.png": "/static/media/cctv.400b1ff75bdc43f40175.png",
-    "static/media/robot.png": "/static/media/robot.c8ab646508819fb08884.png",
-    "static/media/welfare.png": "/static/media/welfare.ed8f371dde4c5e9708c9.png",
-    "static/media/telephone.png": "/static/media/telephone.85e12fdf3ffded1b2ed7.png",
-    "static/media/plug.png": "/static/media/plug.65e9748c52d2be9e8e76.png",
-    "static/media/intercom.png": "/static/media/intercom.c96feb2583e8869b3037.png",
-    "static/media/solar-energy.png": "/static/media/solar-energy.f5f4f330fe0a794e8a6f.png",
-    "index.html": "/index.html",
-    "main.ba0e19e7.css.map": "/static/css/main.ba0e19e7.css.map",
-    "main.c87fe4b4.js.map": "/static/js/main.c87fe4b4.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/KTI/static/css/main.ba0e19e7.css",
+    "main.js": "/KTI/static/js/main.88970c99.js",
+    "static/js/787.28cb0dcd.chunk.js": "/KTI/static/js/787.28cb0dcd.chunk.js",
+    "static/media/kti tiles.jpg": "/KTI/static/media/kti tiles.9594713dd39dcdb19ed9.jpg",
+    "static/media/kti tiles 3.jpg": "/KTI/static/media/kti tiles 3.381c65babe03f49ffbec.jpg",
+    "static/media/kti tiles 2.jpg": "/KTI/static/media/kti tiles 2.1327e2dc6ffe47e66b05.jpg",
+    "static/media/IMG_9485.PNG": "/KTI/static/media/IMG_9485.409e0358be0fefc948ff.PNG",
+    "static/media/solar-panels.png": "/KTI/static/media/solar-panels.91268eacf152aff9b34f.png",
+    "static/media/fire-alarm.png": "/KTI/static/media/fire-alarm.47e9e79727246fd0786a.png",
+    "static/media/IMG_9448.PNG": "/KTI/static/media/IMG_9448.b518fd48e8cb1f333ca5.PNG",
+    "static/media/cctv.png": "/KTI/static/media/cctv.400b1ff75bdc43f40175.png",
+    "static/media/robot.png": "/KTI/static/media/robot.c8ab646508819fb08884.png",
+    "static/media/welfare.png": "/KTI/static/media/welfare.ed8f371dde4c5e9708c9.png",
+    "static/media/telephone.png": "/KTI/static/media/telephone.85e12fdf3ffded1b2ed7.png",
+    "static/media/plug.png": "/KTI/static/media/plug.65e9748c52d2be9e8e76.png",
+    "static/media/intercom.png": "/KTI/static/media/intercom.c96feb2583e8869b3037.png",
+    "static/media/solar-energy.png": "/KTI/static/media/solar-energy.f5f4f330fe0a794e8a6f.png",
+    "index.html": "/KTI/index.html",
+    "main.ba0e19e7.css.map": "/KTI/static/css/main.ba0e19e7.css.map",
+    "main.88970c99.js.map": "/KTI/static/js/main.88970c99.js.map",
+    "787.28cb0dcd.chunk.js.map": "/KTI/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba0e19e7.css",
-    "static/js/main.c87fe4b4.js"
+    "static/js/main.88970c99.js"
   ]
 }
